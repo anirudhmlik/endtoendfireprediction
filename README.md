@@ -1,4 +1,2 @@
 
-# endtoendfireprediction
-# endtoendfireprediction
-# endtoendfireprediction
+# end-to-end project for fire prediction
